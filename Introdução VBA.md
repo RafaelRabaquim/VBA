@@ -36,9 +36,10 @@ A principal pergunta a ser feita é se há uma maneira mais fácil. Antes de com
 Os aplicativos do Office são poderosos. A solução de que você precisa talvez já esteja disponível. Dedique algum tempo para saber mais sobre o Office antes de começar a programar.
 Antes de começar um projeto VBA, verifique se você tem tempo para trabalhar com o VBA. Programar requer foco e pode ser imprevisível. Especialmente se for iniciante, nunca comece a programar a menos que você tenha tempo para trabalhar com toda a atenção. Tentar gravar um "script rápido" para resolver um problema quando uma data limite se aproxima pode levar a situações muito estressantes. Se você está com pressa, use métodos convencionais, mesmo que sejam monótonos e repetitivos.
 
-> Programação em VBA 101
+## Programação em VBA 101
 
-Usando códigos para fazer com que aplicativos realizem tarefas
+> Usando códigos para fazer com que aplicativos realizem tarefas
+
 Você pode achar que escrever códigos é algo misterioso ou difícil, mas os princípios básicos usam raciocínios comuns e são bastante acessíveis. Os aplicativos do Microsoft Office são criados de forma a expor itens chamados objetos. Esses itens podem receber instruções da mesma forma que um telefone faz quando você usa seus botões. Quando você pressiona um botão, o telefone reconhece a instrução e inclui o número correspondente na sequência que você está discando. Em programação, você interage com o aplicativo enviando instruções a vários objetos no aplicativo. Esses objetos são expansivos, mas têm limites. Eles só podem fazer aquilo que foram projetados para fazer e farão apenas o que você os instruir a fazer.
 
 Por exemplo, pense em um usuário que abre um documento no Word, faz algumas alterações, salva o documento e, em seguida, fecha-o. No mundo da programação em VBA, o Word expõe um objeto Document. Usando o código VBA, você pode instruir o objeto Document a fazer coisas como abrir, salvar ou fechar.
