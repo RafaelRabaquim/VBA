@@ -1,6 +1,7 @@
 teste de código
 
 `` ``
-MsgBox "Hello world"
-
+teste de funcionamento() {
+  console.log ("observe a linha em branco antes desta função?");
+}
 `` ``
