@@ -60,4 +60,4 @@ O código VBA neste artigo é executado em um aplicativo aberto do Office em que
 No Word, por exemplo, você pode alterar as propriedades e chamar os métodos do documento atual do Word, usando a propriedade ActiveDocument do objeto aplicativo. Essa propriedade ActiveDocument retorna uma referência para o objeto documento que está ativo no aplicativo do Word. "Retorna uma referência para" significa "oferece acesso a".
 O código a seguir faz exatamente aquilo que ele diz, ou seja, salva o documento ativo no aplicativo.
 
-[Continue lendo...](https://docs.microsoft.com/pt-br/office/vba/library-reference/concepts/getting-started-with-vba-in-office)
+[Continue lendo...](https://docs.microsoft.com/pt-br/office/vba/library-reference/concepts/getting-started-with-vba-in-office#methods)
