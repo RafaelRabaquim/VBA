@@ -13,6 +13,6 @@ também podem ser automatizadas usando o VBA. Além disso, se a operação pode 
 > Na verdade, a automação de tarefas repetitivas é um dos usos mais comuns do VBA no Office.
 
 Além da capacidade de criar scripts com o VBA para acelerar as tarefas diárias, 
-use o VBA para adicionar novas funcionalidades a aplicativos do Office ou solicitar e interagir com as pessoas 
+use o VBA para adicionar novas funcionalidades à aplicativos do Office ou solicitar e interagir com as pessoas 
 que usam seus documentos de formas específicas para atender às suas necessidades de negócios. 
 
